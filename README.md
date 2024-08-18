@@ -28,6 +28,7 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 - [https://github.com/hek4z/STA380-aahh/blob/main/TheRueterCorp-2.ipynb](https://github.com/hek4z/STA380-aahh/blob/main/TheRueterCorp-3.ipynb)
 
 ## Association Rule Mining 
+- https://github.com/hek4z/STA380-aahh/blob/main/AssociationRuleMining.pdf
 
 ## Image Classification with Neural Networks
 - [https://github.com/hek4z/STA380-aahh/blob/main/Image%20Classification%20with%20Neural%20Networks-2.ipynb](https://github.com/hek4z/STA380-aahh/blob/main/Image%20Classification%20with%20Neural%20Networks-4.ipynb)
