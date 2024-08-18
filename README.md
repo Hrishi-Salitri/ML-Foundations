@@ -16,6 +16,7 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 - [https://github.com/hek4z/STA380-aahh/blob/main/GoGreenBuildings.pdf](https://github.com/hek4z/STA380-aahh/blob/main/GGoGreenBuildings.pdf)
 
 ## Visual Story Telling Part 2: Capital Metro Data
+- https://github.com/hek4z/STA380-aahh/blob/main/CapitalMetroData.pdf
 
 ## Clustering and Dimensionality Reduction
 - [https://github.com/hek4z/STA380-aahh/blob/main/ClusteringAndDimensionality.pdf](https://github.com/hek4z/STA380-aahh/blob/main/Takehome_Q5_WineClustering.pdf)
