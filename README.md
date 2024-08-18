@@ -3,8 +3,8 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 
 ## Probability Practice 
 ### Part A
-- Write Up:
-- Mathematical Write Up: 
+- Write Up: 
+- Mathematical Write Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20a%20probability%20.pdf
 ### Part B
 - Write Up:
 - Mathematical Write Up:
