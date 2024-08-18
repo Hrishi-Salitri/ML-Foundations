@@ -25,7 +25,7 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 - [https://github.com/hek4z/STA380-aahh/blob/main/Market%20Segmenting%20-%20Final-2.ipynb](https://github.com/hek4z/STA380-aahh/blob/main/Market%20Segmenting%20-%20Final-3.ipynb)
 
 ## The Reuters Corpus
-- https://github.com/hek4z/STA380-aahh/blob/main/TheRueterCorp-2.ipynb
+- [https://github.com/hek4z/STA380-aahh/blob/main/TheRueterCorp-2.ipynb](https://github.com/hek4z/STA380-aahh/blob/main/TheRueterCorp-3.ipynb)
 
 ## Association Rule Mining 
 
