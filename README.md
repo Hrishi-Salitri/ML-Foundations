@@ -25,3 +25,4 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 ## Association Rule Mining 
 
 ## Image Classification with Neural Networks
+- https://github.com/hek4z/STA380-aahh/blob/main/Image%20Classification%20with%20Neural%20Networks-2.ipynb
