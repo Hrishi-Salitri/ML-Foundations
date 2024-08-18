@@ -21,6 +21,7 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 ## Market Segmentation
 
 ## The Reuters Corpus
+- https://github.com/hek4z/STA380-aahh/blob/main/TheRueterCorp-2.ipynb
 
 ## Association Rule Mining 
 
