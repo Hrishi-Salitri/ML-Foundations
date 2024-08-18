@@ -13,6 +13,7 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 - Part A, B, and C specified with Write-Up inside ipynb: https://github.com/hek4z/STA380-aahh/blob/main/Billboard100-2.ipynb
 
 ## Visual Story Telling Part 1: Green Buildings
+- https://github.com/hek4z/STA380-aahh/blob/main/GoGreenBuildings.pdf
 
 ## Visual Story Telling Part 2: Capital Metro Data
 
