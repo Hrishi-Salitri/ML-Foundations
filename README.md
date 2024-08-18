@@ -17,7 +17,7 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 ## Visual Story Telling Part 2: Capital Metro Data
 
 ## Clustering and Dimensionality Reduction
-- https://github.com/hek4z/STA380-aahh/blob/main/ClusteringAndDimensionality.pdf
+- [https://github.com/hek4z/STA380-aahh/blob/main/ClusteringAndDimensionality.pdf](https://github.com/hek4z/STA380-aahh/blob/main/Takehome_Q5_WineClustering.pdf)
 
 ## Market Segmentation
 - https://github.com/hek4z/STA380-aahh/blob/main/Market%20Segmenting%20-%20Final-2.ipynb
