@@ -6,7 +6,7 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 - Write-Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20A%20Probability%20Write-Up.pdf
 - Mathematical Write-Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20a%20probability%20.pdf
 ### Part B
-- Write-Up: 
+- Write-Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20B%20Probability%20Write-Up.pdf
 - Mathematical Write-Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20b%20probability.pdf
   
 ## Wrangling the Billboard Top100
