@@ -3,8 +3,12 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 
 ## Probability Practice 
 ### Part A
+- Write Up:
+- Mathematical Write Up: 
 ### Part B
-
+- Write Up:
+- Mathematical Write Up:
+  
 ## Wrangling the Billboard Top100
 ### Part A
 ### Part B
