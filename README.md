@@ -10,9 +10,7 @@ Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
 - Mathematical Write-Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20b%20probability.pdf
   
 ## Wrangling the Billboard Top100
-### Part A
-### Part B
-### Part C
+- Part A, B, and C specified with Write-Up inside ipynb: https://github.com/hek4z/STA380-aahh/blob/main/Billboard100-2.ipynb
 
 ## Visual Story Telling Part 1: Green Buildings
 
