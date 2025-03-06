@@ -1,9 +1,9 @@
 # STA380-aahh
-Ari Pai, Aryan Shah, Hrishi Salitri, Hadley Krummel
+Hrishi Salitri, Hadley Krummel, Ari Pai, Aryan Shah
 
 ## Probability Practice 
 ### Part A
-- Write-Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20A%20Probability%20Write-Up.pdf
+- Write-Up: https://github.com/Hrishi-Salitri/ML-Foundations/blob/main/Part%20A%20Probability%20Write-Up.pdf
 - Mathematical Write-Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20a%20probability%20.pdf
 ### Part B
 - Write-Up: https://github.com/hek4z/STA380-aahh/blob/main/Part%20B%20Probability%20Write-Up.pdf
