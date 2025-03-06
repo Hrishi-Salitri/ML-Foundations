@@ -1,5 +1,5 @@
 # A Repo of Some Machine Learning Foundational Work
-collaborators: Hrishi Salitri, Hadley Krummel, Ari Pai, Aryan Shah
+Collaborators: Hrishi Salitri, Hadley Krummel, Ari Pai, Aryan Shah
 
 ## Probability Practice 
 ### Part A
